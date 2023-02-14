@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AlbumsHeader">Albums</string>
+    <string name="ArtistsHeader">Artistes</string>
+    <string name="PlaylistNameHint">Entrez le nom de la playlist</string>
+    <string name="PlaylistsHeader">Playlists</string>
+    <string name="NewPlaylist">Nouvelle playlist</string>
+    <string name="Favorites">Favoris</string>
+    <string name="Offline">Hors-Ligne</string>
+    <string name="PlaylistIdNullError">playlistId ne peut pas être null</string>
+    <string name="ScaffoldQuickPicks">Choix rapides</string>
+    <string name="ScaffoldSongs">Musiques</string>
+    <string name="ScaffoldPlaylists">Playlists</string>
+    <string name="ScaffoldArtists">Artistes</string>
+    <string name="ScaffoldAlbums">Albums</string>
+    <string name="SongsHeader">Musiques</string>
+    <string name="QuickPicksHeader">Choix rapides</string>
+    <string name="RelatedAlbums">Albums en rapport</string>
+    <string name="SimilarArtists">Artistes similaires</string>
+    <string name="PlaylistsMightLike">Des playlists qui peuvent vous plaire</string>
+    <string name="OcurredError">Une erreur est survenue</string>
+    <string name="BuiltInPlaylistFavorites">Favoris</string>
+    <string name="BuiltInPlaylistOffline">Hors-Ligne</string>
+    <string name="Enqueue">Ajouter à la file</string>
+    <string name="ScaffoldFavorites">Favoris</string>
+    <string name="ScaffoldOffline">Hors-ligne</string>
+    <string name="Shuffle">Mélanger</string>
+    <string name="Songs">Musiques</string>
+    <string name="ViewAll">Tout voir</string>
+    <string name="Albums">Albums</string>
+    <string name="Singles">Singles</string>
+    <string name="FromWikipediaAttribution">De Wikipedia sous license Creative Commons CC-BY-SA 3.0</string>
+    <string name="HeaderUnknown">Inconnu</string>
+    <string name="ScaffoldOverview">Vue d'ensemble</string>
+    <string name="ScaffoldSingles">Singles</string>
+    <string name="ScaffoldLibrary">Bibliothèque</string>
+    <string name="EmptyReleases">Cet.te artiste n'a publié aucun album</string>
+</resources>
